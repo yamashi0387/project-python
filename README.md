@@ -23,6 +23,5 @@ BITE計算の視点を変えて、2026年1月に明快なコードに書き直�
 2026/2/18:二人で遊べるヨットのファイル(vs_yacht.py)を追加しました。     
 2026/2/21:streamlitを使って、Webアプリ化しました(yacht-app.py)。   
 　　　　　https://project-python-byyu22oe2qyo3xhrvyf4a4.streamlit.app/    
-2026/2/22:PaizaでMySQLについて学んだアウトプットとして、Supabaseを使ってランキングが出るようにしました.
 
 
