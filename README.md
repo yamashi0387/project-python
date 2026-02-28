@@ -13,7 +13,7 @@
 
 リンクはこちら:https://project-python-byyu22oe2qyo3xhrvyf4a4.streamlit.app/
 
-2026/2/23:PaizaでMySQLを学んだアウトプットとして、Supabaseを利用してランキングの機能を実装しました。また、いくつかのバグを直しました。
+2026/2/23:PaizaでMySQLを学んだアウトプットとして、Supabaseを利用してランキングの機能を実装しました。また、いくつかのバグを直しました(sql-yacht-app.py)。
 
 リンクはこちら:https://project-python-g4jgz8pzdyfpkeuacplwxb.streamlit.app/
 
