@@ -11,12 +11,12 @@
 
 2026/2/21:streamlitを使って、Webアプリ化しました(yacht-app.py)。
 
-リンクはこちら:https://project-python-byyu22oe2qyo3xhrvyf4a4.streamlit.app/
+yacht-app.pyのリンクはこちら:https://project-python-byyu22oe2qyo3xhrvyf4a4.streamlit.app/
 
 2026/2/23:PaizaでMySQLを学んだアウトプットとして、Supabaseを利用してランキングの機能を実装しました。また、いくつかのバグを直しました(sql-yacht-app.py)。
 
 2026/3/1:ルール説明をアプリ内に追加しました。
 
-リンクはこちら:https://project-python-gnjsuunqgbzhcqximu3vc9.streamlit.app/
+sql-yacht-app.pyのリンクはこちら:https://project-python-gnjsuunqgbzhcqximu3vc9.streamlit.app/
 
 
