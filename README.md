@@ -15,6 +15,6 @@
 
 2026/2/23:PaizaでMySQLを学んだアウトプットとして、Supabaseを利用してランキングの機能を実装しました。また、いくつかのバグを直しました(sql-yacht-app.py)。
 
-リンクはこちら:https://project-python-g4jgz8pzdyfpkeuacplwxb.streamlit.app/
+リンクはこちら:https://project-python-gnjsuunqgbzhcqximu3vc9.streamlit.app/
 
 
