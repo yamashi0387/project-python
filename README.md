@@ -11,7 +11,7 @@
 
 2026/2/21:streamlitを使って、Webアプリ化しました(yacht-app.py)。
 
-yacht-app.pyのリンクはこちら:https://project-python-byyu22oe2qyo3xhrvyf4a4.streamlit.app/
+yacht-app.pyのリンクはこちら:https://project-python-jger2zgnv6mx7heaokuqnl.streamlit.app/
 
 2026/2/23:PaizaでMySQLを学んだアウトプットとして、Supabaseを利用してランキングの機能を実装しました。また、いくつかのバグを直しました(sql-yacht-app.py)。
 
