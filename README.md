@@ -22,10 +22,3 @@ sql-yacht-app.pyのリンクはこちら:https://project-python-gnjsuunqgbzhcqxi
 # アップデート予定
 - 現状の役の使用状況とその点数を表示する
 - CPU対戦の実装
-
-# ヨットのページはこちらから
-https://github.com/yamashi0387/project-python/tree/yacht
-
-# アップデート予定
-- 現状の役の使用状況とその点数を表示する
-- CPU対戦の実装
