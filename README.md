@@ -1,8 +1,24 @@
-# project-python
-数あてゲームであるヌメロンと、サイコロで行うポーカーのような遊びであるヨットの動きをpythonで書いてみました。
+# ヨットについて
+ヨットはサイコロで行うポーカーのようなものです。プレイヤーは役をサイコロで完成させ、なるべく高い点数を目指します。  
+ヨットの特徴は、1ゲームの中で全ての役を1度ずつ使う必要があるということです。  
+役が成立していなくてもどれかの役を選ぶ必要があり、その際はその役の点数は0点となります。  
+どの役を潰し、どの役を残して高得点を狙うかを考えることが重要で、面白いところです。  
+コードについては、フルハウスやストレートの条件をどのように記述すれば良いかを考えたところが工夫した点です。    
+役の表を2つにすれば、二人で点数を競えるものも作ることができます。  
 
-# ヌメロンのページはこちらから
-https://github.com/yamashi0387/project-python/tree/numeron
+# アップデート
+2026/2/18:二人で遊べるヨットのファイル(vs_yacht.py)を追加しました。
 
-# ヨットのページはこちらから
-https://github.com/yamashi0387/project-python/tree/yacht
+2026/2/21:streamlitを使って、Webアプリ化しました(yacht-app.py)。
+
+yacht-app.pyのリンクはこちら:https://project-python-jger2zgnv6mx7heaokuqnl.streamlit.app/
+
+2026/2/23:PaizaでMySQLを学んだアウトプットとして、Supabaseを利用してランキングの機能を実装しました。また、いくつかのバグを直しました(sql-yacht-app.py)。
+
+2026/3/1:ルール説明をアプリ内に追加しました。
+
+sql-yacht-app.pyのリンクはこちら:https://project-python-gnjsuunqgbzhcqximu3vc9.streamlit.app/
+
+# アップデート予定
+- 現状の役の使用状況とその点数を表示する
+- CPU対戦の実装
